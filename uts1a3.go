@@ -20,5 +20,5 @@ func main() {
 	fmt.Println("s =", s)
 	fmt.Println("u =", u)
 	fmt.Println("t =", t)
-	fmt.Println("ok =", ok)
+	fmt.Println("notok =", notok)
 }
